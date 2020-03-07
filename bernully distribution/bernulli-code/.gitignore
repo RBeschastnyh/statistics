@@ -1,0 +1,6 @@
+#Ignore Intellij IDEA files
+.idea/
+
+#Ignore virtual enviroment folder
+venv
+__pycache__
